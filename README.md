@@ -1,9 +1,9 @@
 # Intro Page.
 중대 마스코트 푸앙이  
 
-![푸앙이](https://www.cau.ac.kr/cau/img/campusinfo/mascot-tab1_01.jpg)  
+![푸앙이](https://cdn.herald.cauon.net/news/photo/201911/18798_7972_2911.PNG)  
 
-출처 : 중앙대학교 홈페이지
+출처 : https://cdn.herald.cauon.net/news/photo/201911/18798_7972_2911.PNG
 
 ## 목차
 
@@ -47,5 +47,7 @@
  ##### 4. 당구
   이것도 오래된 취미 중에 하난데 요즘엔 시간이 잘 안나서 못 하고 있어요..  
   _(구력은 비밀로 ......)_
+
+> 이상입니다. 감사합니다~
 
  
